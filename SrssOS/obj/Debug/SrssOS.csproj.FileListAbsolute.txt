@@ -1,0 +1,6 @@
+H:\Programming\Conditionals\SrssOS\SrssOS\bin\Debug\SrssOS.exe.config
+H:\Programming\Conditionals\SrssOS\SrssOS\bin\Debug\SrssOS.exe
+H:\Programming\Conditionals\SrssOS\SrssOS\bin\Debug\SrssOS.pdb
+H:\Programming\Conditionals\SrssOS\SrssOS\obj\Debug\SrssOS.exe
+H:\Programming\Conditionals\SrssOS\SrssOS\obj\Debug\SrssOS.pdb
+H:\Programming\Conditionals\SrssOS\SrssOS\obj\Debug\SrssOS.csprojResolveAssemblyReference.cache
